@@ -1,4 +1,4 @@
-#define	UART_DR_DATA_Pos                                    (7)
+#define	UART_DR_DATA_Pos                                    (0)
 #define	UART_DR_DATA                                        (0x0FFU << UART_DR_DATA_Pos)
 #define	UART_DR_B9D_Pos                                     (8)
 #define	UART_DR_B9D                                         (0x01U << UART_DR_B9D_Pos)

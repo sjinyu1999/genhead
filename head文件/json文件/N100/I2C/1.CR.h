@@ -8,5 +8,5 @@
 #define	I2C_CR_INT                                          (0x01U << I2C_CR_INT_Pos)
 #define	I2C_CR_AA_Pos                                       (4)
 #define	I2C_CR_AA                                           (0x01U << I2C_CR_AA_Pos)
-#define	I2C_CR_SRC_Pos                                      (6)
+#define	I2C_CR_SRC_Pos                                      (5)
 #define	I2C_CR_SRC                                          (0x03U << I2C_CR_SRC_Pos)

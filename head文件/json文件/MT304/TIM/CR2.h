@@ -4,7 +4,7 @@
 #define	TIM_CR2_CCUS                                        (0x01U << TIM_CR2_CCUS_Pos)
 #define	TIM_CR2_CCDS_Pos                                    (3)
 #define	TIM_CR2_CCDS                                        (0x01U << TIM_CR2_CCDS_Pos)
-#define	TIM_CR2_MMS_Pos                                     (6)
+#define	TIM_CR2_MMS_Pos                                     (4)
 #define	TIM_CR2_MMS                                         (0x07U << TIM_CR2_MMS_Pos)
 #define	TIM_CR2_TI1S_Pos                                    (7)
 #define	TIM_CR2_TI1S                                        (0x01U << TIM_CR2_TI1S_Pos)

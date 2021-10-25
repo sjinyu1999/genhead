@@ -8,5 +8,5 @@
 #define	DBG_MCU_CR_IWDG_STOP                                (0x01U << DBG_MCU_CR_IWDG_STOP_Pos)
 #define	DBG_MCU_CR_WWDG_STOP_Pos                            (9)
 #define	DBG_MCU_CR_WWDG_STOP                                (0x01U << DBG_MCU_CR_WWDG_STOP_Pos)
-#define	DBG_MCU_CR_TIMx_STOP_Pos                            (13)
+#define	DBG_MCU_CR_TIMx_STOP_Pos                            (10)
 #define	DBG_MCU_CR_TIMx_STOP                                (0x0FU << DBG_MCU_CR_TIMx_STOP_Pos)

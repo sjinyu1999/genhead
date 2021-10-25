@@ -4,7 +4,7 @@
 #define	_ok_RCC_RCC_8_BDCR_LSERDY                           (0x01U << _ok_RCC_RCC_8_BDCR_LSERDY_Pos)
 #define	_ok_RCC_RCC_8_BDCR_BYPASS_Pos                       (2)
 #define	_ok_RCC_RCC_8_BDCR_BYPASS                           (0x01U << _ok_RCC_RCC_8_BDCR_BYPASS_Pos)
-#define	_ok_RCC_RCC_8_BDCR_RTCSEL_Pos                       (9)
+#define	_ok_RCC_RCC_8_BDCR_RTCSEL_Pos                       (8)
 #define	_ok_RCC_RCC_8_BDCR_RTCSEL                           (0x03U << _ok_RCC_RCC_8_BDCR_RTCSEL_Pos)
 #define	_ok_RCC_RCC_8_BDCR_RTCEN_Pos                        (15)
 #define	_ok_RCC_RCC_8_BDCR_RTCEN                            (0x01U << _ok_RCC_RCC_8_BDCR_RTCEN_Pos)

@@ -1,6 +1,6 @@
 #define	I2C_CR_v2_MASTER_Pos                                (0)
 #define	I2C_CR_v2_MASTER                                    (0x01U << I2C_CR_v2_MASTER_Pos)
-#define	I2C_CR_v2_SPEED_Pos                                 (2)
+#define	I2C_CR_v2_SPEED_Pos                                 (1)
 #define	I2C_CR_v2_SPEED                                     (0x03U << I2C_CR_v2_SPEED_Pos)
 #define	I2C_CR_v2_SLAVE10_Pos                               (3)
 #define	I2C_CR_v2_SLAVE10                                   (0x01U << I2C_CR_v2_SLAVE10_Pos)

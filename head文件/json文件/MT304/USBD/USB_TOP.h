@@ -6,7 +6,7 @@
 #define	USBD_USB_TOP_RESET                                  (0x01U << USBD_USB_TOP_RESET_Pos)
 #define	USBD_USB_TOP_SUSPEND_Pos                            (4)
 #define	USBD_USB_TOP_SUSPEND                                (0x01U << USBD_USB_TOP_SUSPEND_Pos)
-#define	USBD_USB_TOP_STATE_Pos                              (6)
+#define	USBD_USB_TOP_STATE_Pos                              (5)
 #define	USBD_USB_TOP_STATE                                  (0x03U << USBD_USB_TOP_STATE_Pos)
 #define	USBD_USB_TOP_ACTIVE_Pos                             (7)
 #define	USBD_USB_TOP_ACTIVE                                 (0x01U << USBD_USB_TOP_ACTIVE_Pos)

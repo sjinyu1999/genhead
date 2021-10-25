@@ -1,4 +1,4 @@
-#define	BKP_RTCCR_CAL_Pos                                   (6)
+#define	BKP_RTCCR_CAL_Pos                                   (0)
 #define	BKP_RTCCR_CAL                                       (0x07FU << BKP_RTCCR_CAL_Pos)
 #define	BKP_RTCCR_CCO_Pos                                   (7)
 #define	BKP_RTCCR_CCO                                       (0x01U << BKP_RTCCR_CCO_Pos)

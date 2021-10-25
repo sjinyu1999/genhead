@@ -1,6 +1,6 @@
-#define	TIM_BDTR_DTG_Pos                                    (7)
+#define	TIM_BDTR_DTG_Pos                                    (0)
 #define	TIM_BDTR_DTG                                        (0x0FFU << TIM_BDTR_DTG_Pos)
-#define	TIM_BDTR_LOCK_Pos                                   (9)
+#define	TIM_BDTR_LOCK_Pos                                   (8)
 #define	TIM_BDTR_LOCK                                       (0x03U << TIM_BDTR_LOCK_Pos)
 #define	TIM_BDTR_OSSI_Pos                                   (10)
 #define	TIM_BDTR_OSSI                                       (0x01U << TIM_BDTR_OSSI_Pos)

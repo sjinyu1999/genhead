@@ -2,5 +2,5 @@
 #define	DAC_SWTRIGR_SWTRIG1                                 (0x01U << DAC_SWTRIGR_SWTRIG1_Pos)
 #define	DAC_SWTRIGR_SWTRIG2_Pos                             (1)
 #define	DAC_SWTRIGR_SWTRIG2                                 (0x01U << DAC_SWTRIGR_SWTRIG2_Pos)
-#define	DAC_SWTRIGR_DACPRE_Pos                              (14)
+#define	DAC_SWTRIGR_DACPRE_Pos                              (8)
 #define	DAC_SWTRIGR_DACPRE                                  (0x07FU << DAC_SWTRIGR_DACPRE_Pos)

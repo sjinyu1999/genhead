@@ -8,5 +8,5 @@
 #define	PWR_CR_PVDE                                         (0x01U << PWR_CR_PVDE_Pos)
 #define	PWR_CR_DBP_Pos                                      (8)
 #define	PWR_CR_DBP                                          (0x01U << PWR_CR_DBP_Pos)
-#define	PWR_CR_PLS_Pos                                      (12)
+#define	PWR_CR_PLS_Pos                                      (9)
 #define	PWR_CR_PLS                                          (0x0FU << PWR_CR_PLS_Pos)

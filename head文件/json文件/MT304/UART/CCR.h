@@ -6,5 +6,5 @@
 #define	UART_CCR_SPB                                        (0x01U << UART_CCR_SPB_Pos)
 #define	UART_CCR_BRK_Pos                                    (3)
 #define	UART_CCR_BRK                                        (0x01U << UART_CCR_BRK_Pos)
-#define	UART_CCR_CHAR_Pos                                   (5)
+#define	UART_CCR_CHAR_Pos                                   (4)
 #define	UART_CCR_CHAR                                       (0x03U << UART_CCR_CHAR_Pos)
