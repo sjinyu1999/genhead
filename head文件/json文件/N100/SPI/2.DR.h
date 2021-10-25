@@ -1,6 +1,0 @@
-#define	SPI_DR_DATA_Pos                                     (0)
-#define	SPI_DR_DATA                                         (0x0FFFFU << SPI_DR_DATA_Pos)
-#define	SPI_DR_CNT_Pos                                      (16)
-#define	SPI_DR_CNT                                          (0x0FFU << SPI_DR_CNT_Pos)
-#define	SPI_DR_ACC_Pos                                      (31)
-#define	SPI_DR_ACC                                          (0x01U << SPI_DR_ACC_Pos)

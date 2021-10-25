@@ -1,6 +1,0 @@
-#define	CAN_SFF_DLC_Pos                                     (0)
-#define	CAN_SFF_DLC                                         (0x0FU << CAN_SFF_DLC_Pos)
-#define	CAN_SFF_RTR_Pos                                     (6)
-#define	CAN_SFF_RTR                                         (0x01U << CAN_SFF_RTR_Pos)
-#define	CAN_SFF_FF_Pos                                      (7)
-#define	CAN_SFF_FF                                          (0x01U << CAN_SFF_FF_Pos)

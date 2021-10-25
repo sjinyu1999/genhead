@@ -37,11 +37,14 @@ function data(reg) {
             bitmask = reg[i].bits;
             //console.log(bitmask);
             sum += bitmask;
-            let sum1=sum-bitmask;
+            let sum1 = sum - bitmask;
             bitmask1 = Math.pow(2, bitmask) - 1;
             bitmask1 = bitmask1.toString(16);
-            bitmask1 = "(0x0" + bitmask1.toUpperCase() + "U";
-            
+            if (bitmask1 >= 0 || bitmask1 < 16) {
+                bitmask1 = "(0x0" + bitmask1.toUpperCase() + "U";
+            } else {
+                bitmask1 = "(0x" + bitmask1.toUpperCase() + "U";
+            }
             bitmask = bitmask.toString(16);
             bitname = reg[i].name;
             if (bitname = reg[i].name && bitname.indexOf(bitname) > -1 && bitname != "RES" && bitname != "RES.") {
@@ -60,9 +63,9 @@ function data(reg) {
                 //console.log(left);
                 define = head + left;
                 define1.push(define);
-            
+
+            }
         }
-    }
         define2.push(define1);
         //console.log(define2);
     });

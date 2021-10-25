@@ -1,8 +1,0 @@
-#define	EXTI_CR1_EXTI0_Pos                                  (0)
-#define	EXTI_CR1_EXTI0                                      (0x0FU << EXTI_CR1_EXTI0_Pos)
-#define	EXTI_CR1_EXTI1_Pos                                  (4)
-#define	EXTI_CR1_EXTI1                                      (0x0FU << EXTI_CR1_EXTI1_Pos)
-#define	EXTI_CR1_EXTI2_Pos                                  (8)
-#define	EXTI_CR1_EXTI2                                      (0x0FU << EXTI_CR1_EXTI2_Pos)
-#define	EXTI_CR1_EXTI3_Pos                                  (12)
-#define	EXTI_CR1_EXTI3                                      (0x0FU << EXTI_CR1_EXTI3_Pos)

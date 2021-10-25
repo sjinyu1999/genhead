@@ -1,8 +1,0 @@
-#define	EXTI_CFGR_MEMMODE_Pos                               (0)
-#define	EXTI_CFGR_MEMMODE                                   (0x03U << EXTI_CFGR_MEMMODE_Pos)
-#define	EXTI_CFGR_CSMCH1DMA_Pos                             (8)
-#define	EXTI_CFGR_CSMCH1DMA                                 (0x01U << EXTI_CFGR_CSMCH1DMA_Pos)
-#define	EXTI_CFGR_CSMCH2DMA_Pos                             (11)
-#define	EXTI_CFGR_CSMCH2DMA                                 (0x01U << EXTI_CFGR_CSMCH2DMA_Pos)
-#define	EXTI_CFGR_PA11PA12_Pos                              (12)
-#define	EXTI_CFGR_PA11PA12                                  (0x01U << EXTI_CFGR_PA11PA12_Pos)
